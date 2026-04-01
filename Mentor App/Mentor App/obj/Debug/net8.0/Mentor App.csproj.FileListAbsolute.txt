@@ -32,3 +32,4 @@ C:\Users\User\Desktop\FrontToBack-SqlConnectionOrm\Mentor App\Mentor App\obj\Deb
 C:\Users\User\Desktop\FrontToBack-SqlConnectionOrm\Mentor App\Mentor App\obj\Debug\net8.0\Mentor App.pdb
 C:\Users\User\Desktop\FrontToBack-SqlConnectionOrm\Mentor App\Mentor App\obj\Debug\net8.0\Mentor App.genruntimeconfig.cache
 C:\Users\User\Desktop\FrontToBack-SqlConnectionOrm\Mentor App\Mentor App\obj\Debug\net8.0\ref\Mentor App.dll
+C:\Users\User\Desktop\FrontToBack-SqlConnectionOrm\Mentor App\Mentor App\obj\Debug\net8.0\Mentor App.sourcelink.json
