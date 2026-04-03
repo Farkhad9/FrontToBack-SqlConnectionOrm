@@ -1,7 +1,13 @@
+using Mentor_App.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<MentorAppDbContext>(options =>
+    options.UseSqlServer("Server=.\\SQLEXPRESS;Database=MentorApp;Trusted_Connection=True;TrustServerCertificate=True")
+    );
 
 var app = builder.Build();
 
