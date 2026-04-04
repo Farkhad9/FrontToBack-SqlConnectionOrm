@@ -41,7 +41,7 @@
   <header id="header" class="header d-flex align-items-center sticky-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
-      <a href="index.html" class="logo d-flex align-items-center me-auto">
+            <a asp-controller="home" asp-action="index" class="logo d-flex align-items-center me-auto">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="~/assets/img/logo.webp" alt=""> -->
         <h1 class="sitename">Mentor</h1>
@@ -49,12 +49,14 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="index.html" class="active">Home<br></a></li>
+          <li><a asp-controller="home" asp-action="index" class="@(ViewContext.RouteData.Values["controller"]?.ToString().ToLower() == "home" ? "active" : "")">Home<br></a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="courses.html">Courses</a></li>
           <li><a href="trainers.html">Trainers</a></li>
           <li><a href="events.html">Events</a></li>
-          <li><a href="pricing.html">Pricing</a></li>
+          <li>
+          <a a asp-controller="pricing" asp-action="index"class="@(ViewContext.RouteData.Values["controller"]?.ToString().ToLower() == "pricing" ? "active" : "")">Pricing</a>
+          </li>
           <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="#">Dropdown 1</a></li>

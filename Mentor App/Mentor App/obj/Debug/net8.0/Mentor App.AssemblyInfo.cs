@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mentor App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a72ff553b18b98b206024f41f13df3526cd3ead2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e488dbe232085155cd993e32b287b04a97907398")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mentor App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mentor App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
