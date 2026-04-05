@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\data\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\data\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EternaAppDb/True/SqlTable/dbo.ProductImage.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EternaAppDb/True/SqlTable/dbo.Features.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EternaAppDb/True/SqlTable/dbo.Categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\eternaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\eternaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EternaAppDb/True/SqlTable/dbo.Sliders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm\\eternaapp\\eternaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6029ED4-6422-4BC5-BDDB-9D6921EA9F23}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Features [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EternaAppDb/True/SqlTable/dbo.Features.sql",
+              "ToolTip": "dbo.Features [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-04T21:15:02.893Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.ProductImage [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EternaAppDb/True/SqlTable/dbo.ProductImage.sql",
+              "ToolTip": "dbo.ProductImage [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-04T22:45:10.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductVm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\ViewModels\\ProductVm.cs",
+              "RelativeDocumentMoniker": "EternaApp\\ViewModels\\ProductVm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\ViewModels\\ProductVm.cs",
+              "RelativeToolTip": "EternaApp\\ViewModels\\ProductVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T22:14:50.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "EternaApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "EternaApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T21:59:53.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EternaApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EternaApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T21:59:00.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Categories [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EternaAppDb/True/SqlTable/dbo.Categories.sql",
+              "ToolTip": "dbo.Categories [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-04T21:57:14.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "EternaApp\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Models\\ProductImage.cs",
+              "RelativeToolTip": "EternaApp\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T21:31:42.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EternaApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Models\\Product.cs",
+              "RelativeToolTip": "EternaApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T21:24:42.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "EternaApp\\Models\\Categories.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Models\\Categories.cs",
+              "RelativeToolTip": "EternaApp\\Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T21:22:48.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Models\\Feature.cs",
+              "RelativeDocumentMoniker": "EternaApp\\Models\\Feature.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Models\\Feature.cs",
+              "RelativeToolTip": "EternaApp\\Models\\Feature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T20:56:49.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EternaApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EternaApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T20:10:05.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeVm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\ViewModels\\HomeVm.cs",
+              "RelativeDocumentMoniker": "EternaApp\\ViewModels\\HomeVm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\ViewModels\\HomeVm.cs",
+              "RelativeToolTip": "EternaApp\\ViewModels\\HomeVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T20:04:48.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.Sliders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EternaAppDb/True/SqlTable/dbo.Sliders.sql",
+              "ToolTip": "dbo.Sliders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-04T19:50:25.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EternaApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EternaApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T19:44:26.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EternaApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EternaApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:43:55.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EternaApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EternaApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T19:41:10.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "EternaApp\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Models\\Slider.cs",
+              "RelativeToolTip": "EternaApp\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:54:01.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EternaApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\appsettings.Development.json",
+              "RelativeToolTip": "EternaApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T16:50:48.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\appsettings.json",
+              "RelativeDocumentMoniker": "EternaApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\appsettings.json",
+              "RelativeToolTip": "EternaApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T16:48:03.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Program.cs",
+              "RelativeDocumentMoniker": "EternaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Program.cs",
+              "RelativeToolTip": "EternaApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:45:49.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EternaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Data\\EternaDbContext.cs",
+              "RelativeDocumentMoniker": "EternaApp\\Data\\EternaDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\Data\\EternaDbContext.cs",
+              "RelativeToolTip": "EternaApp\\Data\\EternaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:42:28.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EternaApp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\EternaApp.csproj",
+              "RelativeDocumentMoniker": "EternaApp\\EternaApp.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm\\EternaApp\\EternaApp\\EternaApp.csproj",
+              "RelativeToolTip": "EternaApp\\EternaApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T16:41:20.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
